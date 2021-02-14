@@ -1,2 +1,2 @@
 # stepik-auto-tests-course
-course practice
+repository for the course Test Automation using Selenium and Python (https://stepik.org/course/575/syllabus)
